@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin:0;
+}
+.flag{
+    height:100vh;
+    /* background-color: aqua; */
+}
+.whiteStrip{
+    height: calc(100vh/3);
+    background-color: white; 
+}
+.blueStrip{
+    height: calc(100vh/3);
+    background-color: blue;
+}
+.redStrip{
+    height: calc(100vh/3);
+    background-color: red;
+}
